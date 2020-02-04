@@ -1,8 +1,8 @@
 # Cuddly Chainsaw
 IT Mentoring Repository!
 
-Contains Machine Learning information about:
+Contains Programming information about:
 
- 1. Classifiers
- 2. Linear Regression
+ 1. Machine Learning - Classifiers
+ 2. Machine Learning - Linear Regression
  3. Natural Processing Language
